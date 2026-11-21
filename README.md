@@ -1,7 +1,7 @@
 # Low-resolution OCT → high-resolution OCTA with a latent Brownian bridge diffusion model
 
 **ECGR 8119 Medical Artificial Intelligence, UNC Charlotte — final project (Fall 2026)**
-Ramisa Farha · Advisor: Dr. Shahed Mohammed
+Ramisa Farha 
 
 OCT is cheap and widely available; OCTA, which shows retinal blood flow, needs more expensive hardware.
 Generative models can translate OCT into OCTA, but every published model is trained and tested on

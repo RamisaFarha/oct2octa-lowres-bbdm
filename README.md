@@ -9,7 +9,7 @@ high-resolution scans. This project measures what happens when the **input OCT h
 (×2 and ×4), and whether **fine-tuning the model on low-resolution input** recovers what is lost. Every
 result is computed against the real OCTA of the same eye, on 50 held-out eyes of OCTA-500 (3 mm).
 
-A step-by-step reproduction guide is in **[docs/Reproduction_Guide.docx](docs/Reproduction_Guide.docx)**.
+A step-by-step reproduction guide is in **[Reproduction_Guide.docx](Reproduction_Guide.docx)**.
 This README is the short version of the same steps.
 
 ## Models

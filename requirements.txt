@@ -1,0 +1,10 @@
+# Analysis / evaluation (CPU). BBDM itself has its own requirements (see its repository).
+numpy>=1.23
+scipy>=1.10
+scikit-image>=0.20
+opencv-python>=4.7
+Pillow>=9.4
+matplotlib>=3.7
+lpips>=0.1.4        # en-face LPIPS (uses torch)
+torch>=1.13
+pyyaml>=6.0

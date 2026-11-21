@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+*.ckpt
+data/
+results_raw/
+*.log
+configs/config.sh
